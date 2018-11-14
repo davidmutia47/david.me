@@ -1,2 +1,2 @@
 # david.me
-Personal site. [GoDoc](http://mutia.me)
+Personal site. [mutia.me](http://mutia.me)
